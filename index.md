@@ -1,13 +1,12 @@
-@def title = "Franklin Sandbox"
+@def title = "Food Trucks"
 @def hasmath = true
 @def hascode = true
 
+# Food Trucks
 
-# Franklin syntax sandbox
+How many Food Trucks are there in Southern California?
 
-This page is meant as a sandbox for Franklin Syntax so that you can quickly practice or experience things.
-
-## Sandbox
+We will explore the available data to see how we might help those operating Food Trucks
 
 Write whatever you want here to practice Franklin Syntax:
 
