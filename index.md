@@ -17,4 +17,4 @@ This provided me their address, name of the business, and the date of their last
 
 I'm going through the list; checking against business records, and social media accounts to see how "active" each truck has been since the pandemic hit in March of 2020.
 
-These records with my addition of social media ccounts are currently be stored in a CSV file.
+These records with my addition of social media accounts are currently be stored in a CSV file.
