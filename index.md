@@ -18,3 +18,7 @@ This provided me their address, name of the business, and the date of their last
 I'm going through the list; checking against business records, and social media accounts to see how "active" each truck has been since the pandemic hit in March of 2020.
 
 These records with my addition of social media accounts are currently be stored in a CSV file.
+
+I cleaned up the data and placed into a table.
+
+> > 138 trucks and 10 commissaries. Food Trucks are required to park at a commissary. This means the address on the reports are consolidated to about 12 commissaries throughout the county. The city of Riverside and Jurupa Valley have by far the most Trucks assigned to them.
