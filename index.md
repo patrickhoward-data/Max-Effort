@@ -5,7 +5,6 @@
 # Food Trucks
 
 June 12, 2022
-
 The data involving Food Trucks has proven harder to come by.
 
 For now I will limit my research to Riverside County, Ca.
@@ -18,10 +17,4 @@ This provided me their address, name of the business, and the date of their last
 
 I'm going through the list; checking against business records, and social media accounts to see how "active" each truck has been since the pandemic hit in March of 2020.
 
-These records with my addition of social media ccounts are currently be stored in a CSV file.
-
-Cleaned the CSV file, moved data into a new Table.
-
-> > > 138 Food Trucks are listed, 10 Commissaries.
-
-Food Trucks are REQUIRED to park at a Commissaries. So the address used on these reports are centrialized to about a dozen^ different locations.
+These records with my addition of social media accounts are currently be stored in a CSV file.
